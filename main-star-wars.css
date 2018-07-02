@@ -1,0 +1,16 @@
+header {
+	background-color: #eebb44;
+}
+
+.card {
+	border: 1px solid black;
+	margin-bottom: 20px;
+}
+
+.card-image {
+	width: 100%
+}
+
+.card-content {
+	padding: 20px;
+}
